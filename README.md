@@ -1,9 +1,5 @@
 ![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)
 
-# Boilerplate for react
-
-- Basic react template for new projects.
-
 ## Table of Contents (Optional)
 
 -   [Installation](#installation)
